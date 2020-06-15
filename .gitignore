@@ -1,2 +1,4 @@
 MNIST/.ipynb_checkpoints/*
 MNIST/Dataset/*
+.DS_Store
+MNIST/.DS_Store
